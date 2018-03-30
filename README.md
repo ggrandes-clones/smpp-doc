@@ -2,13 +2,10 @@
 
 ##### Connections Examples
 
-###### Bind TX (Sending Messages)
+###### Sending Messages (TX) / Receiving Messages (RX)
 
-![TX](https://raw.githubusercontent.com/ggrandes-clones/smpp-doc/master/smpp_bind_tx.png "Sending over TX")
-
-###### Bind RX (Receiving Messages)
-
-![RX](https://raw.githubusercontent.com/ggrandes-clones/smpp-doc/master/smpp_bind_rx.png "Receiving over RX")
+![Bind_TX](https://raw.githubusercontent.com/ggrandes-clones/smpp-doc/master/smpp_bind_tx.png "Sending Messages over TX")
+![Bind_RX](https://raw.githubusercontent.com/ggrandes-clones/smpp-doc/master/smpp_bind_rx.png "Receiving Messages over RX")
 
 ##### Links
 
