@@ -7,6 +7,10 @@
 ![Bind_TX](https://raw.githubusercontent.com/ggrandes-clones/smpp-doc/master/smpp_bind_tx.png "Sending Messages over TX")
 ![Bind_RX](https://raw.githubusercontent.com/ggrandes-clones/smpp-doc/master/smpp_bind_rx.png "Receiving Messages over RX")
 
+###### Common Fields
+
+![Bind_Common_Fields](https://raw.githubusercontent.com/ggrandes-clones/smpp-doc/master/smpp_bind_common_fields.png "Common fields")
+
 ##### Links
 
 - [GSM 03.40 / 3GPP TS 23.040](https://en.wikipedia.org/wiki/GSM_03.40)
